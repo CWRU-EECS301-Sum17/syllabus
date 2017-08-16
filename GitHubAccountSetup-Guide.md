@@ -1,6 +1,6 @@
 # GitHub Account Setup
 
-The Lab #1 Assignment email includes a **GitHub Classroom** invitation link.  Opening the link will begin the process of creating your **GitHub** account, joining the class **GitHub** Organization, and starting the Lab #1 Assignment.
+Opening the invitation link, included in the Lab #1 Assignment email, begins the process of creating your **GitHub** account, joining the class **GitHub Organization**, and starting the Lab #1 Assignment.  Follow the steps below to get started.
 
 **Setup Steps:**
 
