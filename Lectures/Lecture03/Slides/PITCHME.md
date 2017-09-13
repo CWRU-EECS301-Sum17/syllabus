@@ -32,11 +32,11 @@ Typical synchronizer chain length is 2 or 3 registers.
 Faster clock rates need longer chains due to metastability bleed though which is shown in the Faster Clock slide.
 overflow
 
----?image=MsWf01.png
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/MsWf01.png
 
 ---
 
-![Normal Op](MsWf01.png)
+![Normal Op](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/MsWf01.png)
 
 ---
 
