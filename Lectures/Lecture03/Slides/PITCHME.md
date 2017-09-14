@@ -23,6 +23,12 @@ Lab 2 Questions, Issues, Feedback?
 
 ---
 
+### Cyclone FPGA LE Parameters
+
+![Cyclone Specs](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/Specs_Cyclone.png)
+
+---
+
 ### Synchronizer Register Chain
 
 ![Sync Chain](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/SyncChain.png)
