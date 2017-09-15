@@ -43,14 +43,6 @@ Either initialize or reset all registers.
 
 ---
 
-### Metastability
-
-*
-*
-*
-
----
-
 ## Metastability Demo
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/MetastabilityDemoCircuit.png&size=90% 90%
@@ -126,8 +118,7 @@ Rising and falling edges of the same clock should be considered two separate clo
 ```verilog
 module Generate_Module
 #(
-	parameter DATA_WIDTH = 16,
-	parameter ADD_OR_SUB = 1  // 1 = Add, 0 = Sub
+	parameter DATA_WIDTH = 16
 )
 (
 	input  [DATA_WIDTH-1:0] A,
@@ -145,37 +136,17 @@ module Generate_Module
 		for (i=0; i < DATA_WIDTH; i=i+1)
 		begin : multi_bit_adder_gen
 	
-			if (ADD_OR_SUB == 0)  // Subtract:  Q = A - B = A + ~B + 1
-			begin
-			
-				assign carry[0] = 1'b1; // Set carry-in bit to add 1
+			assign carry[0] = 1'b0;
 	
-				One_Bit_Adder adder_bit
-				(
-					.A( A[i] ),
-					.B( ~B[i] ),
-					.CIN( carry[i] ),
-					.COUT( carry[i+1] ),
-					.CLK( CLK )
-				);
-				
-			end
-			else // Adder:  Q = A + B
-			begin
-
-				assign carry[0] = 1'b0; // Set first carry-in bit
-	
-				One_Bit_Adder adder_bit
-				(
-					.A( A[i] ),
-					.B( B[i] ),
-					.CIN( carry[i] ),
-					.COUT( carry[i+1] ),
-					.CLK( CLK )
-				);
+			One_Bit_Adder adder_bit
+			(
+				.A( A[i] ),
+				.B( B[i] ),
+				.CIN( carry[i] ),
+				.COUT( carry[i+1] ),
+				.CLK( CLK )
+			);
 		
-			end
-			
 		end
 	end
 	endgenerate
@@ -187,7 +158,11 @@ endmodule
 
 ### Shift Register Chains
 
-* Similar to 
+* Serial-in, Parallel-out (serial receiver)
+* Parallel-load, Serial-out (serial transmitter)
+* Linear-feedback Shift Register (cryptography)
+* Serial-in, Serial-out (Delay-lines)
+* Serial Loop-Back, Parallel-out (Ring Counters)
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/ShiftRegisterRingCounter.png&size=90% 90%
 
@@ -198,9 +173,8 @@ endmodule
 ### Refactoring Code
 
 * Repurposing existing code for a different application
-* Saves time by starting with something rather than nothing
-* Combines reuse and 
-
+* Saves time starting with something rather than nothing
+* Faster time to market
 
 ---
 
