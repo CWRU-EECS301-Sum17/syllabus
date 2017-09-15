@@ -13,7 +13,7 @@ Red signals are uninitialized registers
 
 ---
 
-#### Uninitialized Registers
+#### Register Initialization
 
 ```verilog
 reg [31:0] count_reg;
@@ -29,11 +29,25 @@ begin
 end
 ```
 
+Note:
+Counters have feedback so an uninitialized values propagate.
+Either initialize or reset all registers.
+
 ---
 
 ### Asynchronous Signals
 
+* FPGAs are intended to be synchronous systems
+* Most Off-chip signals occur asynchronously
+* Unsynchronized signals may cause metastability failures
 
+---
+
+### Metastability
+
+*
+*
+*
 
 ---
 
