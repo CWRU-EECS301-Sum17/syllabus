@@ -5,6 +5,9 @@
 Note:
 Lab 2 Questions, Issues, Feedback?
 
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/BadSimulation.png&size=auto 90%
+
+
 ---
 
 ## Metastability
