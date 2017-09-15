@@ -5,18 +5,42 @@
 Note:
 Lab 2 Questions, Issues, Feedback?
 
+
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/BadSimulation.png&size=90% 90%
 
+Note:
+Red signals are uninitialized registers
 
 ---
 
-## Metastability
+#### Uninitialized Registers
+
+```verilog
+reg [31:0] count_reg;
+
+initial
+begin
+	count_reg <= 32'h00000000;
+end
+
+always @(posedge CLK)
+begin
+	count_reg <= count_reg + 1'b1;
+end
+```
+
+---
+
+### Asynchronous Signals
+
+* 
 
 
 ---
 
 ## Metastability Demo
 
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/MetastabilityDemoCircuit.png&size=auto
 
 ---
 
@@ -72,3 +96,8 @@ mean time between failures
 ---
 
 # Lab 3 Overview
+
+---
+
+### Refactoring Code
+
