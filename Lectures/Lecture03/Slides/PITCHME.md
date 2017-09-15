@@ -68,7 +68,7 @@ overflow
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/MsWf02.png&size=auto 90%
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/MsWf02.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/MsWf03.png&size=auto 90%
 
 ---
 
