@@ -33,7 +33,6 @@ end
 
 ### Asynchronous Signals
 
-* 
 
 
 ---
@@ -67,24 +66,9 @@ overflow
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/MsWf01.png&size=auto 90%
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/MsWf01lg.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/MsWf02.png&size=auto 90%
 
----
-
-![Normal Op](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/MsWf01.png)
-
----
-
-### Data t<sub>su</sub> Violation
-
-![Metastable Op](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/MsWf02.png)
-
----
-
-### Faster Clock
-
-![Fast Clock Metastable Op](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/MsWf03.png)
-
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/MsWf02.png&size=auto 90%
 
 ---
 
