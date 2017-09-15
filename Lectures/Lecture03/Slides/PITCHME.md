@@ -39,7 +39,7 @@ Either initialize or reset all registers.
 
 * FPGAs are intended to be synchronous systems
 * Most Off-chip signals occur asynchronously
-* Unsynchronized signals may cause metastability failures
+* Unsynchronized signals cause metastability failures
 
 ---
 
@@ -90,11 +90,11 @@ At faster clock rates, the metastability can cascade through multiple registers.
 ### Design Tips for Reliability
 
 * Always use synchronous logic designs with FPGAs
-* Apply proper timing constrains (make the tools help)
+* Apply proper timing constrains (make Quartus help)
 * Minimize clock domain crossings (CDC) when possible
 * Use proper CDC structures to transfer signals between domains
 * Do not use data signals as clocks
-* Treat the rising and falling clock edge as separate domains
+* Treat rising and falling clock edge as separate domains
 
 Note:
 Rising and falling edges of the same clock should be considered two separate clock domains with the exact same frequency and a 180 phase shift.
