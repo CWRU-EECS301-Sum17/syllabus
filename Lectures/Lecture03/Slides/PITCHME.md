@@ -187,6 +187,9 @@ endmodule
 
 ### Shift Register Chains
 
+* Similar to 
+
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/ShiftRegisterRingCounter.png&size=90% 90%
 
 
 ---
