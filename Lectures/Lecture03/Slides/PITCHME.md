@@ -40,7 +40,7 @@ end
 
 ## Metastability Demo
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/MetastabilityDemoCircuit.png&size=auto
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/MetastabilityDemoCircuit.png&size=90% 90%
 
 ---
 
