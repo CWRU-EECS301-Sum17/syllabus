@@ -110,8 +110,8 @@ Rising and falling edges of the same clock should be considered two separate clo
 * Programmatically instantiate logic at compile time
 * Parametrizable
 * Increases code flexibility and module reuse
-* Conditional blocks (using if statements)
-* Loops (using for statements)
+* Conditional blocks (using **if** statements)
+* Loops (using **for** statements)
 
 ---
 
