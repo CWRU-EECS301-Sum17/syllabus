@@ -5,7 +5,7 @@
 Note:
 Lab 2 Questions, Issues, Feedback?
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/BadSimulation.png&size=contain 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/BadSimulation.png&size=90% 90%
 
 
 ---
