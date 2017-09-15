@@ -126,34 +126,64 @@ Rising and falling edges of the same clock should be considered two separate clo
 ```verilog
 module Generate_Module
 #(
-	parameter DATA_WIDTH = 16
+	parameter DATA_WIDTH = 16,
+	parameter ADD_OR_SUB = 1  // 1 = Add, 0 = Sub
 )
 (
-	input  [DATA_WIDTH-1:0] DIN,
-	output [DATA_WIDTH-1:0] DOUT,
+	input  [DATA_WIDTH-1:0] A,
+	input  [DATA_WIDTH-1:0] B,
+	output [DATA_WIDTH-1:0] Q,
 	input  CLK
 );
 
+	wire [DATA_WIDTH:0] carry;
+	
 	genvar i;
-
+	
 	generate
 	begin
 		for (i=0; i < DATA_WIDTH; i=i+1)
-		begin : data_module_gen
+		begin : multi_bit_adder_gen
 	
-			Data_Module data_inst
-			(
-				.IN( DIN ),
-				.OUT( DOUT ),
-				.CLK( CLK )
-			);
+			if (ADD_OR_SUB == 0)  // Subtract:  Q = A - B = A + ~B + 1
+			begin
+			
+				assign carry[0] = 1'b1; // Set carry-in bit to add 1
+	
+				One_Bit_Adder adder_bit
+				(
+					.A( A[i] ),
+					.B( ~B[i] ),
+					.CIN( carry[i] ),
+					.COUT( carry[i+1] ),
+					.CLK( CLK )
+				);
+				
+			end
+			else // Adder:  Q = A + B
+			begin
+
+				assign carry[0] = 1'b0; // Set first carry-in bit
+	
+				One_Bit_Adder adder_bit
+				(
+					.A( A[i] ),
+					.B( B[i] ),
+					.CIN( carry[i] ),
+					.COUT( carry[i+1] ),
+					.CLK( CLK )
+				);
 		
+			end
+			
 		end
 	end
 	endgenerate
 
 endmodule
 ```
+
+---
 
 ### Shift Register Chains
 
