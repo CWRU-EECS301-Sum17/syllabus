@@ -41,17 +41,19 @@ Either initialize or reset all registers.
 * Most Off-chip signals occur asynchronously
 * Unsynchronized signals cause metastability failures
 
----
-
-## Metastability Demo
-
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/MetastabilityDemoCircuit.png&size=90% 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/BadSimulation.png&size=90% 90%
 
 ---
 
 ### SN74S74 Datasheet Parameters
 
 ![74S74 Specs](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/Specs_SN74S74.png)
+
+---
+
+## Metastability Demo
+
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/MetastabilityDemoCircuit.png&size=90% 90%
 
 ---
 
@@ -180,6 +182,4 @@ endmodule
 
 # Lab 3 Overview
 
----
-
-
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/Lab3-DevBoardLayout.png&size=auto 90%
