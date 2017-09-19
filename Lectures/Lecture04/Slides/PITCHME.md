@@ -25,18 +25,29 @@ Lab 3 Questions, Issues, Feedback?
 
 ## Double Dabble
 
-+++?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS01.png
++++?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS01.png&size=auto
 <!-- .slide: data-background-transition="none" -->
-+++?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS02.png
++++?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS02.png&size=auto
 <!-- .slide: data-background-transition="none" -->
-+++?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS03.png
++++?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS03.png&size=auto
 <!-- .slide: data-background-transition="none" -->
-+++?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS04.png
++++?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS04.png&size=auto
 <!-- .slide: data-background-transition="none" -->
-+++?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS05.png
++++?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS05.png&size=auto
 <!-- .slide: data-background-transition="none" -->
-+++?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS06.png
++++?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS06.png&size=auto
 <!-- .slide: data-background-transition="none" -->
-+++?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS07.png
++++?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS07.png&size=auto
 <!-- .slide: data-background-transition="none" -->
-+++?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS08.png
++++?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS08.png&size=auto
+<!-- .slide: data-background-transition="none" -->
++++?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS09.png&size=auto
+<!-- .slide: data-background-transition="none" -->
++++?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS10.png&size=auto
+<!-- .slide: data-background-transition="none" -->
++++?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS11.png&size=auto
+<!-- .slide: data-background-transition="none" -->
++++?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS12.png&size=auto
+<!-- .slide: data-background-transition="none" -->
+
+---
