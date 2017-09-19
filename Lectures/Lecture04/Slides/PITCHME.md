@@ -25,7 +25,7 @@ Lab 3 Questions, Issues, Feedback?
 
 ## Quick Binary to Decimal
 
-+++?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS01.png&size=100% auto
++++?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS01.png
 <!-- .slide: data-background-transition="none" -->
 +++?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS02.png&size=100% auto
 <!-- .slide: data-background-transition="none" -->
