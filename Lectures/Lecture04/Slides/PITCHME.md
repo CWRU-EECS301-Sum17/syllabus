@@ -112,10 +112,13 @@ Note:
 * Eliminate Metastability using single clock domain
 * One State per module to make managing design easier
 
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/StateMachineProcessBlock.png&size=auto 90%
+
+
+
+
+
 ---
-
-
-
 
 # Lab 4 Overview
 
