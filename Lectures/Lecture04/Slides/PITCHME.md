@@ -46,7 +46,7 @@ Every ALM in the FPGA can make both a combinatorial and registered multiplexer.
 * Complex reactive decision-making
 * Supervise computational data flows
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/StateFlowDiagram.png&size=90% auto
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/StateFlowDiagram.png&size=auto 90%
 
 ---
 
