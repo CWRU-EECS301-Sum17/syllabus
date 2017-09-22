@@ -24,7 +24,7 @@ Lab 3 Questions, Issues, Feedback?
 
 #### Cyclone V ALM
 
-![Cyclone V ALM](https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture02/Slides/cv_alm01.png)
+![Cyclone V ALM](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/cv_alm01.png)
 
 FPGA cells contain both combinatorial and registered multiplexers
 
@@ -35,13 +35,90 @@ Every ALM in the FPGA can make both a combinatorial and registered multiplexer.
 
 ## State Machines
 
+(When Counters Aren't Good Enough)
 
+---
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/images/BadSimulation.png&size=90% 90%
+#### State Machine Uses
 
+* Scalable from simple to complex algorithms 
+* Manage sequential action flows
+* Complex reactive decision-making
+* Supervise computational data flows
+
+---
+
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/images/StateFlowDiagram.png&size=90% 90%
+
+---
+
+### State Encoding
+
+* Binary
+* Gray Code
+* Hamming (Fault Tolerant)
+* One-Hot
+
+---
+
+### Binary Encoding
+
+Simple Encoding to Minimize Registers
+
+| State | Encoding |
+|:-----:|:--------:|
+|  S0   |    00    |
+|  S1   |    01    |
+|  S2   |    10    |
+|  S3   |    11    |
+
+---
+
+### Gray Encoding
+
+One-bit Change Per Transition
+
+| State | Encoding |
+|:-----:|:--------:|
+|  S0   |   00   |
+|  S1   |   01   |
+|  S2   |   11   |
+|  S3   |   10   |
+
+---
+
+### One-Hot Encoding
+
+One Register Per State
+
+| State | Encoding |
+|:-----:|:--------:|
+|  S0   |   0001   |
+|  S1   |   0010   |
+|  S2   |   0100   |
+|  S3   |   1000   |
 
 
 ---
+
+### State Machine Guidelines
+
+* Use **Combined Single Process**
+* Minimize State Usage
+* All signals synchronous to single clock domain
+* One State Machine per module
+
+Note:
+* Use Combined Single Process instead of Split Two Process (see State Machine Guide for why)
+* Minimize State Usage (break up larger State Machines into multiple smaller State Machines)
+* Eliminate Metastability using single clock domain
+* One State per module to make managing design easier
+
+
+---
+
+
+
 
 # Lab 4 Overview
 
