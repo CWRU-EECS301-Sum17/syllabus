@@ -26,13 +26,11 @@ Lab 3 Questions, Issues, Feedback?
 
 ![Cyclone V ALM](https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture02/Slides/cv_alm01.png)
 
-* FPGA cells contain both combinatorial and registered multiplexers
+FPGA cells contain both combinatorial and registered multiplexers
 
 Note: 
 Every ALM in the FPGA can make both a combinatorial and registered multiplexer.
 
-
- 
 ---
 
 ## State Machines
