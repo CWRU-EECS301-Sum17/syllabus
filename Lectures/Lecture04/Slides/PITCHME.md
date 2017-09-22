@@ -114,7 +114,14 @@ Note:
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/StateMachineProcessBlock.png&size=auto 90%
 
+Note:
+State Machine Process Block Overview
+If statement for Reset condition, case statement for State decoding.
 
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/StateMachineActionTransition.png&size=auto 90%
+
+Note:
+State Actions and Transitions
 
 
 
