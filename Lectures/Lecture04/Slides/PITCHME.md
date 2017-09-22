@@ -119,8 +119,8 @@ State Actions and Transitions
 
 ### State Machine Guidelines
 
-* Use **Combined Single Process**
-* Minimize State Usage
+* Use the **Combined Single Process** shown
+* Minimize State Usage (Breakup large State Machines)
 * All signals synchronous to single clock domain
 * Provide Reset value for all signal assignments
 * One State Machine per module
