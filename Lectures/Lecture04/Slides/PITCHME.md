@@ -15,7 +15,7 @@ Lab 3 Questions, Issues, Feedback?
 
 ---
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/AssignmentImportMsg.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/AssignmentImportMsg.png&size=90% auto
 
 ---
 
@@ -31,9 +31,9 @@ Lab 3 Questions, Issues, Feedback?
 
 
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/CombMux.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/CombMux.png&size=90% auto
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/RegMux.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/RegMux.png&size=90% auto
 
 ---
 
