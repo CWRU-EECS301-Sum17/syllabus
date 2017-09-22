@@ -97,6 +97,22 @@ One Register Per State
 |  S3   |   1000   |
 
 
+
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/StateMachineProcessBlock.png&size=auto 90%
+
+Note:
+State Machine Process Block Overview
+If statement for Reset condition, case statement for State decoding.
+
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/StateMachineActionTransition.png&size=auto 90%
+
+Note:
+State Actions and Transitions
+
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/BCD_Binary_Encoder_StateDiagram.png&size=auto 90%
+
+
+
 ---
 
 ### State Machine Guidelines
@@ -111,17 +127,6 @@ Note:
 * Minimize State Usage (break up larger State Machines into multiple smaller State Machines)
 * Eliminate Metastability using single clock domain
 * One State per module to make managing design easier
-
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/StateMachineProcessBlock.png&size=auto 90%
-
-Note:
-State Machine Process Block Overview
-If statement for Reset condition, case statement for State decoding.
-
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/StateMachineActionTransition.png&size=auto 90%
-
-Note:
-State Actions and Transitions
 
 
 
