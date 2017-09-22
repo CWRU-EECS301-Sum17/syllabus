@@ -33,22 +33,20 @@ Every ALM in the FPGA can make both a combinatorial and registered multiplexer.
 
 ---
 
-## State Machines
+# State Machines
 
 (When Counters Aren't Good Enough)
 
 ---
 
-#### State Machine Uses
+### State Machine Uses
 
 * Scalable from simple to complex algorithms 
 * Manage sequential action flows
 * Complex reactive decision-making
 * Supervise computational data flows
 
----
-
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture03/Slides/images/StateFlowDiagram.png&size=90% 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/StateFlowDiagram.png&size=90% 90%
 
 ---
 
@@ -113,7 +111,6 @@ Note:
 * Minimize State Usage (break up larger State Machines into multiple smaller State Machines)
 * Eliminate Metastability using single clock domain
 * One State per module to make managing design easier
-
 
 ---
 
