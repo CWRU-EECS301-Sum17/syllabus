@@ -97,6 +97,8 @@ One Register Per State
 |  S3   |   1000   |
 
 
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/StateEncoding.png&size=auto 90%
+
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/StateMachineProcessBlock.png&size=auto 90%
 
