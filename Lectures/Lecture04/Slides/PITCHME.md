@@ -7,7 +7,7 @@ Lab 3 Questions, Issues, Feedback?
 
 ---
 
-#### Project Pin Assignments 
+### Project Pin Assignments 
 
 * Remember to load the Lab Project Assignments file immediately after creating the project.
 * Double check the assignments using Pin Planner.
@@ -20,6 +20,19 @@ Lab 3 Questions, Issues, Feedback?
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/RegMux.png&size=90% auto
 
+---
+
+#### Cyclone V ALM
+
+![Cyclone V ALM](https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture02/Slides/cv_alm01.png)
+
+* FPGA cells contain both combinatorial and registered multiplexers
+
+Note: 
+Every ALM in the FPGA can make both a combinatorial and registered multiplexer.
+
+
+ 
 ---
 
 ## State Machines
