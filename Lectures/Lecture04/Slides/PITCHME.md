@@ -122,7 +122,9 @@ State Actions and Transitions
 * Use **Combined Single Process**
 * Minimize State Usage
 * All signals synchronous to single clock domain
+* Provide Reset value for all signal assignments
 * One State Machine per module
+* **Lab 4: State Machine Guide** has more details
 
 Note:
 * Use Combined Single Process instead of Split Two Process (see State Machine Guide for why)
