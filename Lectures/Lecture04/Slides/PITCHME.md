@@ -109,7 +109,7 @@ If statement for Reset condition, case statement for State decoding.
 Note:
 State Actions and Transitions
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/BCD_Binary_Encoder_StateDiagram.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/StateChartDiagrams.png&size=auto 90%
 
 
 
