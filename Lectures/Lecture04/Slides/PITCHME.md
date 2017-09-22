@@ -7,6 +7,27 @@ Lab 3 Questions, Issues, Feedback?
 
 ---
 
+#### Project Pin Assignments 
+
+* Remember to load the Lab Project Assignments file immediately after crating the project.
+* There is a bug where the assignment file will not completely load after a compile has been run.
+* Double check the assignments using Pin Planner.
+
+---
+
+#### Bad Message
+
+![Bad Message](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/PostCompileImportMsg.png)
+
+#### Good Message
+
+![Good Message](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/PreCompileImportMsg.png)
+
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/CombMux.png&size=90% auto
+
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture04/Slides/images/RegMux.png&size=90% auto
+
+
 ## State Machines
 
 
