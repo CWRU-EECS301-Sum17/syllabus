@@ -63,6 +63,11 @@ Better BIOS support than USB
 
 ---
 
+## Morse Code
+
+
+---
+
 # Lab 5 Overview
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture05/Slides/images/Lab5_DevBoardLayout.jpg&size=auto 90%
