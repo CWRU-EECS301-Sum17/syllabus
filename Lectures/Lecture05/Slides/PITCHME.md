@@ -83,9 +83,8 @@ Better BIOS support than USB
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture05/Slides/images/PS2_Keyboard_Data_Frame.png&size=95% auto
 
----
 
-## Morse Code
+---?image=https://en.wikipedia.org/wiki/Morse_code#/media/File:International_Morse_Code.svg&size=95% auto
 
 
 ---
