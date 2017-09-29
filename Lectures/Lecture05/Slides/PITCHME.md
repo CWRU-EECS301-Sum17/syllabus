@@ -15,12 +15,12 @@ Lab 4 Questions, Issues, Feedback?
 
 ---
 
-### Universal 
-#### Asynchronous Receiver-Transmitter
+### UART 
+#### (Asynchronous Receiver-Transmitter)
 
 * Data Framing and Signaling Protocol
-* Widely used for RS-232, RS-422, RS-485 Bus Standards
-* Supported by most embedded systems (for terminal)
+* Used for RS-232, RS-422, RS-485 Bus Standards
+* Supported by most embedded systems (terminal)
 * Basic Error Detection (Optional)
 * Configurable Speed and Data Payloads (7/8/9-bits)
 * Anyone remember dial-up modems?
