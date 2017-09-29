@@ -7,6 +7,26 @@ Lab 4 Questions, Issues, Feedback?
 
 ---
 
+## Group Projects
+
+* Team Shared Lab Assignment Repos
+	* lab5-assignment-Team1
+* 1st team member creates group, 2nd joins
+* Synchronize your work through GitHub
+* Resolve merge conflicts with WinMerge
+
+---
+
+## Git Merge Conflicts
+
+* Git tries to merge changes when possible
+* Unresolvable changes result in a conflict file
+* Conflict files can be opened in WinMerge
+* Manually select the changes to keep
+
+
+---
+
 ## Serial Devices
 
 * UART (RS-232)
