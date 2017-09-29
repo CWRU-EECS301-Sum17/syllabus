@@ -10,7 +10,7 @@ Lab 4 Questions, Issues, Feedback?
 ## Group Projects
 
 * Team Shared Lab Assignment Repos
-	* lab5-assignment-Team1
+	* lab5-assignment-team1
 * 1st team member creates group, 2nd joins
 * Synchronize your work through GitHub
 * Resolve merge conflicts with WinMerge
