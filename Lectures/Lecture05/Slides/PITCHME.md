@@ -15,7 +15,7 @@ Lab 4 Questions, Issues, Feedback?
 
 ---
 
-### UART 
+## UART 
 #### (Asynchronous Receiver-Transmitter)
 
 * Data Framing and Signaling Protocol
@@ -49,8 +49,9 @@ Baud Rate defined in symbols per second but for UART same as bits per second.
 
 ## PS/2 Keyboard Bus
 
-* Introduced by IBM in 1987 PS/2 Computer
-* Mostly phased out by USB (security/compatibility uses)
+* Introduced by IBM in 1987 (PS/2 Computer)
+* Mostly phased out by USB (with exceptions)
+	* Better security and BIOS compatibility than USB
 * Synchronous Clock and Data Signals
 * Bi-directional Data
 
