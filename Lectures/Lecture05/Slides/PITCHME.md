@@ -15,7 +15,7 @@ Lab 4 Questions, Issues, Feedback?
 
 ---
 
-#### Universal Asynchronous Receiver-Transmitter
+**Universal Asynchronous Receiver-Transmitter**
 
 * Signaling protocol
 * Widely used for RS-232, RS-422, RS-485 Bus Standards
@@ -57,6 +57,6 @@ Better BIOS support than USB
 
 # Lab 5 Overview
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture05/Slides/images/Lab5-DevBoardLayout.png&size=90% auto
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture05/Slides/images/Lab5_DevBoardLayout.jpg&size=90% auto
 
 ---
