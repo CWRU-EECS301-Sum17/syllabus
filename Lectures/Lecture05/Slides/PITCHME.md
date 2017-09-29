@@ -20,10 +20,12 @@ Lab 4 Questions, Issues, Feedback?
 ## Git Merge Conflicts
 
 * Git tries to merge changes when possible
-* Unresolvable changes result in a conflict file
-* Conflict files can be opened in WinMerge
-* Manually select the changes to keep
-
+* Unresolvable changes result in a Conflict file
+* Conflict files have to be manually edited
+	* Text editor or WinMerge
+* Resolve conflicts by selecting changes to keep
+* Commit the merged files to the Git repo
+* Always pull updates before pushing changes
 
 ---
 
