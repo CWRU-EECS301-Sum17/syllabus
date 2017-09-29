@@ -15,19 +15,22 @@ Lab 4 Questions, Issues, Feedback?
 
 ---
 
-### Universal Asynchronous 
-### Receiver-Transmitter
+### Universal 
+#### Asynchronous Receiver-Transmitter
 
-* Signaling protocol
+* Data Framing and Signaling Protocol
 * Widely used for RS-232, RS-422, RS-485 Bus Standards
 * Supported by most embedded systems (for terminal)
 * Basic Error Detection (Optional)
-* Configurable Data Payload (usually 7/8/9-bits)
+* Configurable Speed and Data Payloads (7/8/9-bits)
+* Anyone remember dial-up modems?
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture05/Slides/images/UART_Data_Frame.png&size=95% auto
 
 Note:
 Typical Data Frame: 8 Data Bits, No Parity Bit, 1 Stop Bit
+Speed Configuration dependent on physical bus (300 Baud - 1000k Baud)
+Baud Rate 
 
 ---
 
@@ -38,6 +41,9 @@ Typical Data Frame: 8 Data Bits, No Parity Bit, 1 Stop Bit
 * No phase relationship between Transmitter and Receiver
 * Receiver re-aligns to Transmitter on Start Bit
 * Transmission speed called Baud Rate
+
+Note:
+Baud Rate defined in symbols per second but for UART same as bits per second.
 
 ---
 
