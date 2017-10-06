@@ -21,7 +21,8 @@ Lab 5 Questions, Issues, Feedback?
 * 4-wire (Clock, Data In, Data Out, Chip-select)
 * Many different device dependent protocols
 * Point-to-point or shared bus using Chip Selects
-* Used for interfacing Memory, ADCs, DACs, Accelerometers, etc...
+* Used for interfacing Memory, ADCs, DACs, Accelerometers, JTAG, etc...
+* Data rates 20MHz or greater (only limited by physical interconnect)
 
 Note:
 https://en.wikipedia.org/wiki/Serial_Peripheral_Interface_Bus
