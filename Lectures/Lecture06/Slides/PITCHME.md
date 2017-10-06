@@ -15,7 +15,7 @@ Lab 5 Questions, Issues, Feedback?
 
 ---
 
-### SPI
+### SPI BUS
 
 * 3-wire (Clock, Bi-direction Data, Chip-select)
 * 4-wire (Clock, Data In, Data Out, Chip-select)
@@ -23,14 +23,14 @@ Lab 5 Questions, Issues, Feedback?
 * Point-to-point or shared bus using Chip Selects
 * Used for interfacing Memory, ADC, DAC, etc...
 
-Notes:
+Note:
 https://en.wikipedia.org/wiki/Serial_Peripheral_Interface_Bus
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture06/Slides/images/SPI_Read_Sequence.png&size=auto 90%
 
 ---
 
-### I<sup>2</sup>C
+### I<sup>2</sup>C BUS
 
 * 2-wire (Clock and Bi-directional Data)
 * Multi-drop Bus
@@ -38,15 +38,15 @@ https://en.wikipedia.org/wiki/Serial_Peripheral_Interface_Bus
 * Most devices support 400kHz Fast-Mode.
 * Speeds up to 5MHz with latest Ultra Fast-Mode 
 
-Notes:
+Note:
 https://en.wikipedia.org/wiki/I²C
 https://www.i2c-bus.org
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture06/Slides/images/I2C_Read_Sequence.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture06/Slides/images/I2C_Read_Sequence.png&size=90% auto
 
 ---
 
-### UNI/O
+### UNI/O BUS
 
 * 1-wire (Clock/Data/Power)
 * Microchip version of Dallas Semi 1-Wire
