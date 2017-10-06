@@ -46,7 +46,7 @@ https://www.i2c-bus.org
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture06/Slides/images/I2C_Read_Sequence.png&size=auto 90%
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture06/Slides/images/I2C_Start_Stop_Bits.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture06/Slides/images/I2C_Start_Stop_Bits.png&size=90% auto
 
 ---
 
