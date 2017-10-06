@@ -35,7 +35,7 @@ https://en.wikipedia.org/wiki/Serial_Peripheral_Interface_Bus
 
 * 2-wire (Clock and Bi-directional Data)
 * Shared multi-device bus using protocol addressing
-* Standardized protocol by NXP Semi (formerly Philips Semi)
+* Standardized protocol by NXP Semi (formerly Philips)
 * Most devices support 400kHz Fast-Mode.
 * Speeds up to 5MHz with latest Ultra Fast-Mode
 * Used for device config, small memories, temp sensors, power supply controllers, etc...
@@ -51,8 +51,11 @@ https://www.i2c-bus.org
 ### UNI/O BUS
 
 * 1-wire (Clock/Data/Power)
-* Microchip version of Dallas Semi 1-Wire
-* 
+* UNI/O is Microchip version of Dallas 1-Wire
+* Shared multi-device bus using protocol addressing
+* Used for ID chips and small sensors
+* Encoded data bits to allow clock and power extraction from data line
+* Bus rates between 10kHz to 100kHz
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture06/Slides/images/UNIO_Read_Sequence.png&size=auto 90%
 
