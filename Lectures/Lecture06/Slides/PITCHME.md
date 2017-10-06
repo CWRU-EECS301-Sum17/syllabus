@@ -26,7 +26,7 @@ Lab 5 Questions, Issues, Feedback?
 Note:
 https://en.wikipedia.org/wiki/Serial_Peripheral_Interface_Bus
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture06/Slides/images/SPI_Read_Sequence.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture06/Slides/images/SPI_Read_Sequence.png&size=90% auto
 
 ---
 
@@ -42,7 +42,7 @@ Note:
 https://en.wikipedia.org/wiki/I²C
 https://www.i2c-bus.org
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture06/Slides/images/I2C_Read_Sequence.png&size=90% auto
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture06/Slides/images/I2C_Read_Sequence.png&size=auto 90%
 
 ---
 
