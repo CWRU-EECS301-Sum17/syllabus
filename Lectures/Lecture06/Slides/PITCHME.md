@@ -21,7 +21,7 @@ Lab 5 Questions, Issues, Feedback?
 * 4-wire (Clock, Data In, Data Out, Chip-select)
 * Many different device dependent protocols
 * Point-to-point or shared bus using Chip Selects
-* Used for interfacing Memory, ADC, DAC, etc...
+* Used for interfacing Memory, ADCs, DACs, Accelerometers, etc...
 
 Note:
 https://en.wikipedia.org/wiki/Serial_Peripheral_Interface_Bus
@@ -33,10 +33,11 @@ https://en.wikipedia.org/wiki/Serial_Peripheral_Interface_Bus
 ### I<sup>2</sup>C BUS
 
 * 2-wire (Clock and Bi-directional Data)
-* Multi-drop Bus
-* Standardized protocol with device addressing
+* Shared multi-device bus using protocol addressing
+* Standardized protocol by NXP Semi (formerly Philips Semi)
 * Most devices support 400kHz Fast-Mode.
-* Speeds up to 5MHz with latest Ultra Fast-Mode 
+* Speeds up to 5MHz with latest Ultra Fast-Mode
+* Used for device config, small memories, temp sensors, power supply controllers, etc...
 
 Note:
 https://en.wikipedia.org/wiki/I²C
