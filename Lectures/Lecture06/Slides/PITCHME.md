@@ -61,6 +61,8 @@ https://www.i2c-bus.org
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture06/Slides/images/UNIO_Bit_Values.png&size=auto 90%
 
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture06/Slides/images/UNIO_Scope_Plot.png&size=auto 90%
+
 ---
 
 # Lab 6 Overview
