@@ -67,4 +67,8 @@ https://www.i2c-bus.org
 
 ---
 
+# Logic Analyzer Demo
+
+---
+
 # Questions?
