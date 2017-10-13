@@ -43,7 +43,6 @@ Lab 5 Questions, Issues, Feedback?
 
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture07/Slides/images/LED-Ring.gif&size=auto 90%
-LED-Ring.gif
 
 ---
 
