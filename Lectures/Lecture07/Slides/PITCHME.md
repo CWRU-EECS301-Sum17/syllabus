@@ -39,9 +39,6 @@ Lab 5 Questions, Issues, Feedback?
 * Daisy chain togologies
 * 24-bit RGB Data
 
-![LED Ring](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture07/Slides/images/LED-Ring-sm.gif)
-
-
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture07/Slides/images/LED-Ring.gif&size=auto 90%
 
 ---
