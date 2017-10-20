@@ -61,6 +61,8 @@ https://en.wikipedia.org/wiki/Multiply–accumulate_operation
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture08/Slides/images/PolynominalExample.png&size=auto 90%
 
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture08/Slides/images/FIRFilterExample.png&size=auto 90%
+
 ---
 
 # Fall Break
