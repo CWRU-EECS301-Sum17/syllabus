@@ -61,7 +61,6 @@ https://en.wikipedia.org/wiki/Multiply–accumulate_operation
 
 ---
 
-## FIR Filter
 
 
 ---
