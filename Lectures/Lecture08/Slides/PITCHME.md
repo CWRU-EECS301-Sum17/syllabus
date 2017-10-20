@@ -48,9 +48,9 @@ Fused Multiply Accumulate (A*B + C) maintains precision by having an adder wide 
 Note:
 https://en.wikipedia.org/wiki/Multiply–accumulate_operation
 
----
-
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture08/Slides/images/DotProductExample.png&size=auto 90%
+
+---
 
 ## FIR Filter
 
