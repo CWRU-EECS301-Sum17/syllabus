@@ -21,26 +21,36 @@ Lab 7 Questions, Issues, Feedback?
 
 ## FPGA DSP Blocks
 
-* Hard-IP to support Digital Signal Processing 
-* Fused Multiplier and Accumulators
+* Hard-IP to support Digital Signal Processing
+* Optimized propagation times for high clock rates
+* Fused Multiplier and Accumulators (FMA)
 * Internal Pipeline Registers
 * Carry-chains to combine multiple DSP Blocks
 * Tailored for most common MAC algorithms
+* 5CSEMA5F31 FPGA has 87 DSP Blocks
 
 Note:
-https://en.wikipedia.org/wiki/Multiply–accumulate_operation
+Hard-IP are FPGA features implemented in Silicon instead of FPGA fabric.
+MAC = Multiply-accumulate
+Fused Multiply Accumulate (A*B + C) maintains precision by having an adder wide enough to accept the multiplier outputs without rounding.
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture08/Slides/images/DSPBlockArchitecture.png&size=auto 90%
 
 ---
 
-## Multiply-Accumulate Algorithms
+### Multiply-Accumulate Algorithms
 
-* FIR
+* Dot Products
+* FFT and FIR Filters
 * Polynomials
-* 
+* Matrix Multiplications
+
+Note:
+https://en.wikipedia.org/wiki/Multiply–accumulate_operation
 
 ---
+
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture08/Slides/images/DotProductExample.png&size=auto 90%
 
 ## FIR Filter
 
