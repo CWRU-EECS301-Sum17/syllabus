@@ -56,12 +56,10 @@ https://en.wikipedia.org/wiki/Multiply–accumulate_operation
 
 * Minimize resource usage by splitting operations across multiple clock cycles using same computation block
 * Series functions
+	* Polynomials (Horner's Method Series)
+	* Filters (FIR, CIC)
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture08/Slides/images/PolynominalExample.png&size=auto 90%
-
----
-
-
 
 ---
 
