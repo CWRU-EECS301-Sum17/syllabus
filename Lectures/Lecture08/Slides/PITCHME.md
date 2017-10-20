@@ -52,6 +52,15 @@ https://en.wikipedia.org/wiki/Multiply–accumulate_operation
 
 ---
 
+### Computation Pipelines
+
+* Minimize resource usage by splitting operations across multiple clock cycles using same computation block
+* Series functions
+
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture08/Slides/images/PolynominalExample.png&size=auto 90%
+
+---
+
 ## FIR Filter
 
 
