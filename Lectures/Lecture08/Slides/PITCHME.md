@@ -25,7 +25,10 @@ Lab 7 Questions, Issues, Feedback?
 * Fused Multiplier and Accumulators
 * Internal Pipeline Registers
 * Carry-chains to combine multiple DSP Blocks
-* Tailored for most common algorithms
+* Tailored for most common MAC algorithms
+
+Note:
+https://en.wikipedia.org/wiki/Multiply–accumulate_operation
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture08/Slides/images/DSPBlockArchitecture.png&size=auto 90%
 
