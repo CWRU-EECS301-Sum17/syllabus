@@ -18,7 +18,7 @@ assign q = a * 16'sh0123 + b * 16'sh8123;
 
 ---
 
-# Test Bench Overview
+## Test Bench Overview
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture09/Slides/images/TestBenchArchitecture.png&size=90% auto
 
@@ -31,6 +31,10 @@ assign q = a * 16'sh0123 + b * 16'sh8123;
 	* Manual result checking
 	* Requires knowledge of expected UUT operation
 	* Full access to UUT signals for code debugging
+
+---
+
+### Types of Test Benches
 
 * Formal Verification Test Bench
 	* Automated result verification
