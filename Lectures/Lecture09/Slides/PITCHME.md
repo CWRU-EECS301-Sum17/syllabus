@@ -22,7 +22,9 @@ assign q = a * 16'sh0123 + b * 16'sh8123;
 
 ---
 
-## LCD Bus
+## LCD Panel
+
+![LCD](images/LCD_Image.png)
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture09/Slides/images/FPGA_to_LCD_Communications.png&size=90% auto
 
