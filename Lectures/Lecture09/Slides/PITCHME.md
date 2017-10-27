@@ -27,20 +27,25 @@ assign q = a * 16'sh0123 + b * 16'sh8123;
 ### Types of Test Benches
 
 * Functional Test Bench
-	* Quick tests for debugging without hardware
-	* Manual result checking
-	* Requires knowledge of expected UUT operation
-	* Full access to UUT signals for code debugging
+* Formal Verification Test Bench
 
 ---
 
-### Types of Test Benches
+### Functional Test Bench
 
-* Formal Verification Test Bench
-	* Automated result verification
-	* Pass/Fail results do not require full UUT knowledge
-	* Regression testing for later design phases
-	* Full coverage testing (Ideally)
+* Quick tests for debugging without hardware
+* Manual output checking (ModelSim waveforms)
+* Requires knowledge of expected UUT operation
+* Full access to UUT signals for code debugging
+
+---
+
+### Formal Verification Test Bench
+
+* Automated result verification
+* Pass/Fail results do not require full UUT knowledge
+* Regression testing for later design phases
+* Full coverage testing (Ideally)
 
 ---
 
