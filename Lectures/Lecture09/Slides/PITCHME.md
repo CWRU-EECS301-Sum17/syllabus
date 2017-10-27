@@ -24,20 +24,18 @@ assign q = a * 16'sh0123 + b * 16'sh8123;
 
 ## LCD Bus
 
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture09/Slides/images/FPGA_to_LCD_Communications.png&size=auto 90%
 
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture09/Slides/images/LCD_HSYNC_TimingDiagram.png&size=auto 90%
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture08/Slides/images/FPGA_to_LCD_Communications.png&size=auto 90%
-
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture08/Slides/images/LCD_HSYNC_TimingDiagram.png&size=auto 90%
-
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture08/Slides/images/LCD_VSYNC_TimingDiagram.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture09/Slides/images/LCD_VSYNC_TimingDiagram.png&size=auto 90%
 
 
 ---
 
 # Lab 8 Overview
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture08/Slides/images/Lab8-DevBoardLayout.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture09/Slides/images/Lab8-DevBoardLayout.png&size=auto 90%
 
 
 ---
