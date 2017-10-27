@@ -67,6 +67,17 @@ assign q = a * 16'sh0123 + b * 16'sh8123;
 
 ---
 
+### Sprites
+
+* State of the Art 1980's Technology
+
+![boo](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture09/Slides/images/boo_image.png)
+
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture09/Slides/images/pixilart_screen.png&size=90% auto
+
+
+---
+
 # Lab 8 Overview
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture09/Slides/images/Lab8-DevBoardLayout.png&size=auto 90%
