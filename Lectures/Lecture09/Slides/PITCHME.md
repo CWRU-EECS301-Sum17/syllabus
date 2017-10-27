@@ -1,6 +1,6 @@
 ---
 
-# Lab 7 Questions
+# Lab 7 Issues
 
 Note:
 Lab 7 Questions, Issues, Feedback?
