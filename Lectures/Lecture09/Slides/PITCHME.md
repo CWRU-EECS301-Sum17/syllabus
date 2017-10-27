@@ -71,7 +71,7 @@ assign q = a * 16'sh0123 + b * 16'sh8123;
 
 * State of the Art 1980's Technology
 
-![boo](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture09/Slides/images/boo_image.png)
+![boo](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture09/Slides/images/boo_image2.png)
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture09/Slides/images/pixilart_screen.png&size=90% auto
 
