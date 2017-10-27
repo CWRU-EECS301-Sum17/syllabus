@@ -20,8 +20,6 @@ assign q = a * 16'sh0123 + b * 16'sh8123;
 
 ## Test Bench Overview
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture09/Slides/images/TestBenchArchitecture.png&size=90% auto
-
 ---
 
 ### Types of Test Benches
@@ -37,6 +35,7 @@ assign q = a * 16'sh0123 + b * 16'sh8123;
 * Manual output checking (ModelSim waveforms)
 * Requires knowledge of expected UUT operation
 * Full access to UUT signals for code debugging
+* Examples: `TF_WS2812_LED_Transmitter`
 
 ---
 
@@ -46,6 +45,9 @@ assign q = a * 16'sh0123 + b * 16'sh8123;
 * Pass/Fail results do not require full UUT knowledge
 * Regression testing for later design phases
 * Full coverage testing (Ideally)
+* Examples: `TF_LWS_Accel_Position_Computator`
+
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture09/Slides/images/TestBenchArchitecture.png&size=90% auto
 
 ---
 
