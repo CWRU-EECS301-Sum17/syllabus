@@ -18,7 +18,25 @@ assign q = a * 16'sh0123 + b * 16'sh8123;
 
 ---
 
-## Test Bench Structures
+## Test Bench Overview
+
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture09/Slides/images/TestBenchArchitecture.png&size=90% auto
+
+---
+
+## Types of Test Benches
+
+* Functional Test Bench
+	* Quick tests for debugging without hardware
+	* Manual result checking
+	* Requires knowledge of expected UUT functionality
+	* Full access to UUT signals for code debugging
+
+* Formal Verification Test Bench
+	* Automated result verification
+	* Pass/Fail results do not require full UUT knowledge
+	* Regression testing for later design phases
+	* Full coverage testing (Ideally)
 
 ---
 
