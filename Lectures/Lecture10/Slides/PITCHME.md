@@ -7,7 +7,7 @@ Lab 8 Questions, Issues, Feedback?
 
 ---
 
-## Code Reuse for Lab 8
+## Lab 8 Code Refactoring
 
 * Library of modules from the previous labs
 	* Switch / Keyboard Synchronizers
@@ -18,7 +18,7 @@ Lab 8 Questions, Issues, Feedback?
 	* Sector Position Computation
 
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture10/Slides/images/Sprite_Keyboard_Control_Architecture.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture10/Slides/images/Sprite_Keyboard_Control_Architecture.png&size=90% auto
 
 
 ---
