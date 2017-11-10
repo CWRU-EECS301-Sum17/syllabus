@@ -9,6 +9,22 @@ Lab 8 Questions, Issues, Feedback?
 
 ### Direct Digital Synthesis
 
+* Arbitrary Waveform Generation
+* Precision Phase Control
+* Wide frequency output range (MHz to mHz)
+* Fast Waveform Switching
+
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture11/Slides/images/DigitalPhaseWheel_n2.png&size=90% auto
+
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture11/Slides/images/DigitalPhaseWheel_n4.png&size=90% auto
+
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture11/Slides/images/DigitalPhaseWheel_n8.png&size=90% auto
+
+
+---
+
+### DDS Architecture
+
 ![DDS Block Diagram](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture11/Slides/images/DDS_Block_Diagram.png)
 
 ---
