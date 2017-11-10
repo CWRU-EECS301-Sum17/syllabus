@@ -7,6 +7,16 @@ Lab 8 Questions, Issues, Feedback?
 
 ---
 
+### Direct Digital Synthesis
+
+![DDS Block Diagram](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture11/Slides/images/DDS_Block_Diagram.png)
+
+---
+
+![DDS Waveform Demo](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture11/Slides/images/Generator-Demo.jpg)
+
+---
+
 ### WM8731 Audio Codec
 
 ![WM8731 Block Diagram](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture11/Slides/images/WM8731_Block_Diagram.png)
