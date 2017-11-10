@@ -60,7 +60,16 @@ Lab 8 Questions, Issues, Feedback?
 
 ---
 
-### FIR Bandpass Filter
+### Finite Impulse Response (FIR)
+
+* Many DSP applications
+	* High, Low or Band-pass filters
+* No feedback loop
+* Deterministic timing
+* Easy to implement in FPGA logic
+* IP Cores available
+
+### FIR Band-pass Filter
 
 ![FFT Bandpass Filter](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture11/Slides/images/FFT_Bandpass_Freq_Resp.png)
 
