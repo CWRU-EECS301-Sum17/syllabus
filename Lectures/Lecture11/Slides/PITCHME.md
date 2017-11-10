@@ -9,13 +9,13 @@ Lab 8 Questions, Issues, Feedback?
 
 ### WM8731 Audio Codec
 
-![WM8731 Block Diagram](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture11/WM8731_Block_Diagram.png)
+![WM8731 Block Diagram](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture11/Slides/images/WM8731_Block_Diagram.png)
 
 ---
 
 ### Audio Bus
 
-![WM8731 Audio Bus Timing](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture11/WM8731_Audio_Bus_Timing.png)
+![WM8731 Audio Bus Timing](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture11/Slides/images/WM8731_Audio_Bus_Timing.png)
 
 ---
 
@@ -32,11 +32,11 @@ Lab 8 Questions, Issues, Feedback?
 
 ### FIR Bandpass Filter
 
-![FFT Bandpass Filter](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture11/FFT_Bandpass_Freq_Resp.png)
+![FFT Bandpass Filter](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture11/Slides/images/FFT_Bandpass_Freq_Resp.png)
 
 ---
 
-![Lab 6 Scope Plot](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture11/Lab6_ScopePlot.png)
+![Lab 6 Scope Plot](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture11/Slides/images/Lab6_ScopePlot.png)
 
 
 
