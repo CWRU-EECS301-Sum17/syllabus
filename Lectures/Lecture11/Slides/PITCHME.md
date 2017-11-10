@@ -9,7 +9,7 @@ Lab 8 Questions, Issues, Feedback?
 
 ### Direct Digital Synthesis
 
-![DDS Block Diagram](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture11/Slides/images/DDS_Block_Diagram.png)
+![DDS Block Diagram](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture11/Slides/images/DDS_Block_Diagram2.png)
 
 ---
 
