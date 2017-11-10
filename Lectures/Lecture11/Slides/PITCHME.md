@@ -24,6 +24,9 @@ Lab 8 Questions, Issues, Feedback?
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture11/Slides/images/DigitalPhaseWheel_n8M3.png&size=90% auto
 
+---
+
+![DDS Waveform Demo](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture11/Slides/images/Generator-Demo.jpg)
 
 ---
 
@@ -33,7 +36,15 @@ Lab 8 Questions, Issues, Feedback?
 
 ---
 
-![DDS Waveform Demo](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture11/Slides/images/Generator-Demo.jpg)
+### Phase Accumulator
+
+* Simple Counter Register
+* Tuning Word **M** added at constant rate **f<sub>o</sub>**
+* Frequency Resolution determined by Width
+	* f<sub>res</sub> = f<sub>o</sub> / 2<sup>N</sup>
+* Frequency Output determined by Tuning Word
+	* f<sub>out</sub> = M * f<sub>o</sub> / 2<sup>N</sup>
+* Upper bits used to index memory pattern
 
 ---
 
