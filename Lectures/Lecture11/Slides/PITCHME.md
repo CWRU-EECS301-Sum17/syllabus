@@ -18,7 +18,11 @@ Lab 8 Questions, Issues, Feedback?
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture11/Slides/images/DigitalPhaseWheel_n4.png&size=90% auto
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture11/Slides/images/DigitalPhaseWheel_n8.png&size=90% auto
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture11/Slides/images/DigitalPhaseWheel_n8M1.png&size=90% auto
+
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture11/Slides/images/DigitalPhaseWheel_n8M2.png&size=90% auto
+
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture11/Slides/images/DigitalPhaseWheel_n8M3.png&size=90% auto
 
 
 ---
