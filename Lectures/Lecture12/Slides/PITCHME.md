@@ -29,15 +29,16 @@ Note:
 
 ---
 
-### Trigger Model
+### SCPI Trigger Model
 
-* Most instrumentation products follow the SCPI Trigger Model
-* SCPI Trigger Layers
+* Basis for most Instrumentation trigger systems
+* SCPI Trigger Model Layers
 	* Idle
 	* Initiate
 	* Arm
 	* Trigger
 	* Device Action
+* http://www.ivifoundation.org/docs/scpi-99.pdf
 
 Note:
 Standard Commands for Programmable Instruments (SCPI)
