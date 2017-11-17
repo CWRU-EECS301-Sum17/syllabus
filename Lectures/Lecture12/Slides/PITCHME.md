@@ -21,7 +21,7 @@ Lab 9 Questions, Issues, Feedback?
 
 * Fixed interval sampling
 
-![Sampled Waveform](images/Sampled_Waveform.png)
+![Sampled Waveform](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture12/Slides/images/Sampled_Waveform.png)
 
 Note:
 * Fixed sample rate doesn't require time samples
@@ -31,7 +31,7 @@ Note:
 
 ### Trigger Model
 
-* Most instrumentation products follow a modified SCPI Trigger Model
+* Most instrumentation products follow the SCPI Trigger Model
 * SCPI Trigger Layers
 	* Idle
 	* Initiate
@@ -41,6 +41,7 @@ Note:
 
 Note:
 Standard Commands for Programmable Instruments (SCPI)
+IVI Foundation Standard
 SCPI Standard defines Trigger Model used by many instrumentation products.
 http://www.ivifoundation.org/docs/scpi-99.pdf
 
