@@ -48,7 +48,7 @@ http://www.ivifoundation.org/docs/scpi-99.pdf
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture12/Slides/images/TriggerModel.png&size=auto 90%
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture12/Slides/images/TriggerModelSamplingExample.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture12/Slides/images/TriggerModelSamplingExample.png&size=90% auto
 
 
 ---
