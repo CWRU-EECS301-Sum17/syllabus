@@ -14,6 +14,7 @@ Lab 9 Questions, Issues, Feedback?
 	* Oscilloscope
 	* Data Acquisition 
 	* Audio Recording
+* Used in Lab 9 to capture DDS waveforms
 
 ---
 
@@ -78,15 +79,28 @@ http://www.ivifoundation.org/docs/scpi-99.pdf
 
 ![Clock Domain Crossing](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture12/Slides/images/Clock_Domains_02.png)
 
+---
 
-## Pipeline Calculations
+### Sync with Edge Detection
+
+* Generate single clock pulse on edge transition
+
+![Clock Domain Crossing](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture12/Slides/images/Clock_Domains_03.png)
 
 ---
 
-## Square Root
+### Other CDC Structures
+
+* Flancter
+* True-Dual Port Block RAM
+* FIFO
+* Mailbox
 
 ---
 
-# Lab 9 Questions
+
+---
+
+# Questions
 
 
