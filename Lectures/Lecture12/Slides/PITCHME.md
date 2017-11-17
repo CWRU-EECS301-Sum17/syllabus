@@ -58,9 +58,17 @@ http://www.ivifoundation.org/docs/scpi-99.pdf
 * Large designs may contain multiple clock sources
 * Clock Domain contains all logic synchronized by the clock source
 * Metastable events can occur when passing signals between domains
-* Use proper synchronization structures when crossing domains
+* Always use proper synchronization structures when crossing domains
 
 ---
+
+### Clock Domain Crossing (CDC)
+
+* Signals crossing from one domain to another are **asynchronous**
+* Asynchronous inputs can cause metastability
+
+![Clock Domain Crossing](images/Clock_Domains_01.png)
+
 
 ## Pipeline Calculations
 
