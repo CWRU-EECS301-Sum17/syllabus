@@ -67,7 +67,16 @@ http://www.ivifoundation.org/docs/scpi-99.pdf
 * Signals crossing from one domain to another are **asynchronous**
 * Asynchronous inputs can cause metastability
 
-![Clock Domain Crossing](images/Clock_Domains_01.png)
+![Clock Domain Crossing](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture12/Slides/images/Clock_Domains_01.png)
+
+---
+
+### Synchronization Buffers
+
+* Same method used for Key and Push Button inputs
+* Works for slow clock to fast clock domains
+
+![Clock Domain Crossing](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture12/Slides/images/Clock_Domains_02.png)
 
 
 ## Pipeline Calculations
