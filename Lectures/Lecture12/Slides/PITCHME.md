@@ -55,6 +55,11 @@ http://www.ivifoundation.org/docs/scpi-99.pdf
 
 ## Clock Domains
 
+* Large designs may contain multiple clock sources
+* Clock Domain contains all logic synchronized by the clock source
+* Metastable events can occur when passing signals between domains
+* Use proper synchronization structures when crossing domains
+
 ---
 
 ## Pipeline Calculations
