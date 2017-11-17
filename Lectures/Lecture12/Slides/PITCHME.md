@@ -85,7 +85,7 @@ http://www.ivifoundation.org/docs/scpi-99.pdf
 
 * Generate single clock pulse on edge transition
 
-![Clock Domain Crossing](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture12/Slides/images/Clock_Domains_03.png)
+![Clock Domain Crossing](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture12/Slides/images/Clock_Domains_03a.png)
 
 ---
 
