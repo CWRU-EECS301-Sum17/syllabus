@@ -31,7 +31,7 @@ Note:
 
 ### SCPI Trigger Model
 
-* Basis for most Instrumentation trigger systems
+* Basis for most Instrumentation Trigger Systems
 * SCPI Trigger Model Layers
 	* Idle
 	* Initiate
@@ -47,6 +47,8 @@ SCPI Standard defines Trigger Model used by many instrumentation products.
 http://www.ivifoundation.org/docs/scpi-99.pdf
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture12/Slides/images/TriggerModel.png&size=auto 90%
+
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture12/Slides/images/TriggerModelSamplingExample.png&size=auto 90%
 
 
 ---
