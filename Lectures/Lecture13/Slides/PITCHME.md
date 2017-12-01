@@ -95,7 +95,8 @@ FPGAs offer complete flexibility in the pipeline logic and multiple pipeline ins
 
 #### Input/Output Signal Constraints
 
-* Input/Output Constraints specify timing related to what is outside the FPGA
+* Input/Output Constraints specify timing related to what is **outside** the FPGA
+* The actual parameters are counter-intuitive
 * The [User Guide](http://www.alterawiki.com/uploads/3/3f/TimeQuest_User_Guide.pdf) has a good description and methodology for setting the input and output constraints 
 
 ---
@@ -105,7 +106,7 @@ FPGAs offer complete flexibility in the pipeline logic and multiple pipeline ins
 * Multi-cycle
 * False Paths
 * Clock Relationships
-* 
+* See the [User Guide](http://www.alterawiki.com/uploads/3/3f/TimeQuest_User_Guide.pdf)
 
 ---
 
