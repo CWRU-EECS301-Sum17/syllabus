@@ -39,9 +39,10 @@ FPGAs offer complete flexibility in the pipeline logic and multiple pipeline ins
 * Computation pipelines do not have feedback loops
 * Each stage passes complete results to the next stage
 * Unused values are buffered to maintain pipeline timing
-* FPGA pipelines typically broken into single clock stages
+* FPGA pipeline stages typically complete in single clock cycle
 * Stage propagation delays determine max clock rate
 
+---
 
 ### Quartus Timing Constraints
 
