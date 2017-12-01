@@ -77,12 +77,20 @@ FPGAs offer complete flexibility in the pipeline logic and multiple pipeline ins
 
 ### Clock Constraints
 
+* Signal constraints can be derived from the Clock Constraint
+
+* Clock Constraints must be provided
+* 
 * All registered signals reference a Clock
 * Signal constraints can be derived from the clock signal constraints
 * Providing the clock constraint is critical
 
 
+
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture13/Slides/images/Clock_Constraint_Example.png&size=auto 90%
+
 ---
+
 
 #### Clock Constraint Example
 
@@ -106,9 +114,16 @@ All signal names are case-sensitive
 
 ---
 
+#### Input/Output Signal Constraints
 
 ---
 
+### Other Constraints
+
+* Multi-cycle
+* False Paths
+* Clock Relationships
+* 
 
 ---
 
