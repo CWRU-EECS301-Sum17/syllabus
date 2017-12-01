@@ -30,17 +30,26 @@ Note:
 The pipelines in CPUs, GPUs, and DSPs are designed for a specific task and may outperform an FPGA running the equivalent task by increasing the clock rates past an FPGAs clocking limit due to the chip hardware layout.
 FPGAs offer complete flexibility in the pipeline logic and multiple pipeline instances can increase the total throughput.
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture13/Slides/images/Pipeline_Example.png&size=auto 90%
+---
+
+### Pipeline Algorithms
+
+* Math Operations (Square Root, Polynomials, etc)
+* Data Stream Processing (Conversions, Filtering)
+* Graphics Rendering
+* Real-time Control
 
 ---
 
 ### Key Pipeline Features
 
-* Computation pipelines do not have feedback loops
+* Maximum throughput when pipeline is full
 * Each stage passes complete results to the next stage
-* Unused values are buffered to maintain pipeline timing
-* FPGA pipeline stages typically complete in single clock cycle
+* Pass-thru signal registers maintain pipeline ordering
+* FPGA pipeline stages typically complete in single clock cycle but multi-cycle stages are possible
 * Stage propagation delays determine max clock rate
+
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture13/Slides/images/Pipeline_Example.png&size=auto 90%
 
 ---
 
