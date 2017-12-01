@@ -61,7 +61,7 @@ FPGAs offer complete flexibility in the pipeline logic and multiple pipeline ins
 
 * FPGA designs require signal timing constraints to set the propagation delay time limits between registers
 * Register setup and hold times are validated against the timing constraints
-* Over-constraining a design causes longer compile times 
+* Over-constraining signals cause longer compile times 
 
 ---
 
@@ -76,6 +76,9 @@ FPGAs offer complete flexibility in the pipeline logic and multiple pipeline ins
 ---
 
 ### Clock Constraints
+
+* 
+
 
 * In synchronous designs all signals reference a Clock signal
 * Providing the clock constraint is critical
