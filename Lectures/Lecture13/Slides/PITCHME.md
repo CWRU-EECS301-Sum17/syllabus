@@ -77,32 +77,11 @@ FPGAs offer complete flexibility in the pipeline logic and multiple pipeline ins
 
 ### Clock Constraints
 
-* Signal constraints can be derived from the Clock Constraint
-
 * Clock Constraints must be provided
-* 
 * All registered signals reference a Clock
-* Signal constraints can be derived from the clock signal constraints
-* Providing the clock constraint is critical
-
-
+* Quartus can derive signal constraints automatically from the Clock constraint
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture13/Slides/images/Clock_Constraint_Example.png&size=auto 90%
-
----
-
-
-#### Clock Constraint Example
-
-* The DE1-SoC board's main clock input is 50 MHz
-
-```
-create_clock -name {CLOCK_50} -period 20.000 [get_ports {CLOCK_50}]
-```
-
-Note:
-The clock name does not have to be the same as the port name.
-All signal names are case-sensitive
 
 ---
 
