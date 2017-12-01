@@ -30,7 +30,7 @@ Note:
 The pipelines in CPUs, GPUs, and DSPs are designed for a specific task and may outperform an FPGA by increasing the clock rates past an FPGAs limit.
 FPGAs offer complete flexibility in the pipeline logic and multiple pipeline instances can increase the total throughput.
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture13/Slides/images/Pipeline_Example.png)
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture13/Slides/images/Pipeline_Example.png&size=auto 90%
 
 ---
 
