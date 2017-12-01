@@ -39,6 +39,8 @@ FPGAs offer complete flexibility in the pipeline logic and multiple pipeline ins
 * Graphics Rendering
 * Real-time Control
 
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture13/Slides/images/Pipeline_Example.png&size=auto 90%
+
 ---
 
 ### Key Pipeline Features
@@ -48,8 +50,6 @@ FPGAs offer complete flexibility in the pipeline logic and multiple pipeline ins
 * Pass-thru signal registers maintain pipeline ordering
 * FPGA pipeline stages typically complete in single clock cycle but multi-cycle stages are possible
 * Stage propagation delays determine max clock rate
-
----?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture13/Slides/images/Pipeline_Example.png&size=auto 90%
 
 ---
 
