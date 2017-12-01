@@ -21,10 +21,10 @@ Lab 10 Questions, Issues, Feedback?
 
 ### Computation Pipelines
 
-* FPGA logic is massively parallel
 * Computational pipelining utilizes parallelism to increase throughput
+* FPGA logic is massively parallel
 * CPUs, GPUs, and DSPs have highly optimized but fixed pipelines
-* FPGA pipelines are fully customizable per application
+* FPGA pipelines are customizable per application
 
 Note:
 The pipelines in CPUs, GPUs, and DSPs are designed for a specific task and may outperform an FPGA running the equivalent task by increasing the clock rates past an FPGAs clocking limit due to the chip hardware layout.
@@ -53,15 +53,23 @@ FPGAs offer complete flexibility in the pipeline logic and multiple pipeline ins
 
 ---
 
+## Pipelining Questions?
+
+---
+
+### FPGA Timing Constraints
+
+* FPGA designs require signal timing constraints to set the propagation delay time limits between registers
+* Register setup and hold times are validated against the timing constraints
+* Over-constraining a design causes longer compile times 
+
+
 ### Quartus Timing Constraints
 
-* Timing constraints insure the propagation delay times between registers are valid
-* The Synthesizer places logic using the timing constraints
-* Over-constraining a design causes longer compile times 
-* Every signal in a design must have a constraint
-
-* Quartus uses the `.sdc` file extension for constraints files
-* Every lab project has had a constraints file (so refer back to previous labs for examples)
+* Quartus maps logic elements into the FPGA fabric based on the timing constraint propagation times
+* Quartus constraint files have an **.sdc** extension
+* Every lab project has had a constraints file included
+* Timing reports provided by TimeQuest Timing Analyzer
 * Refer to this [User Guide](http://www.alterawiki.com/uploads/3/3f/TimeQuest_User_Guide.pdf) for detailed information about setting constraints in Quartus
 
 ---
