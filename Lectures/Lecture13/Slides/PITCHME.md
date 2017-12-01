@@ -63,6 +63,7 @@ FPGAs offer complete flexibility in the pipeline logic and multiple pipeline ins
 * Register setup and hold times are validated against the timing constraints
 * Over-constraining a design causes longer compile times 
 
+---
 
 ### Quartus Timing Constraints
 
