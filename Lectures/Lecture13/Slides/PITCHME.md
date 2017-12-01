@@ -6,33 +6,42 @@
 
 ---
 
-# Lab 10 Questions
-
-Note:
-Lab 10 Questions, Issues, Feedback?
-
----
-
 ## Lab 10 Demo
 
 ![Demo](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture13/Slides/images/Lab10_Demo.png)
 
 ---
 
+## Lab 10 Questions
+
+Note:
+Lab 10 Questions, Issues, Feedback?
+
+---
+
 ### Computation Pipelines
 
 * FPGA logic is massively parallel
-* Computational pipelining takes advantage of parallelism
+* Computational pipelining utilizes parallelism to increase throughput
 * CPUs, GPUs, and DSPs have highly optimized but fixed pipelines
-* FPGA pipelines can be fully customized per application
+* FPGA pipelines are fully customizable per application
 
 Note:
-The pipelines in CPUs, GPUs, and DSPs are designed for a specific task and may outperform an FPGA by increasing the clock rates past an FPGAs limit.
+The pipelines in CPUs, GPUs, and DSPs are designed for a specific task and may outperform an FPGA running the equivalent task by increasing the clock rates past an FPGAs clocking limit due to the chip hardware layout.
 FPGAs offer complete flexibility in the pipeline logic and multiple pipeline instances can increase the total throughput.
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture13/Slides/images/Pipeline_Example.png&size=auto 90%
 
 ---
+
+### Key Pipeline Features
+
+* Computation pipelines do not have feedback loops
+* Each stage passes complete results to the next stage
+* Unused values are buffered to maintain pipeline timing
+* FPGA pipelines typically broken into single clock stages
+* Stage propagation delays determine max clock rate
+
 
 ### Quartus Timing Constraints
 
