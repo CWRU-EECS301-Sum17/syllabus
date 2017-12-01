@@ -15,7 +15,7 @@ Lab 10 Questions, Issues, Feedback?
 
 ## Lab 10 Demo
 
-![Demo](images/Lab10_Demo.png)
+![Demo](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture13/Slides/images/Lab10_Demo.png)
 
 ---
 
@@ -68,7 +68,7 @@ All signal names are case-sensitive
 
 * Graphical interface to set and review timing constraints
 
-![Create Clock GUI](images/Timing_Create_Clock.png)
+![Create Clock GUI](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture13/Slides/images/Timing_Create_Clock.png)
 
 ---
 
