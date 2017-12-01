@@ -59,30 +59,33 @@ FPGAs offer complete flexibility in the pipeline logic and multiple pipeline ins
 
 ### FPGA Timing Constraints
 
-* FPGA designs require signal timing constraints to set the propagation delay time limits between registers
-* Register setup and hold times are validated against the timing constraints
-* Over-constraining signals cause longer compile times 
+* All FPGA signals require timing constraints
+* Timing constraints set the allowed propagation time between registers
+* Insuring register setup and hold times prevent metastability
+* Constraints are used when mapping RTL logic onto the FPGA fabric
 
 ---
 
 ### Quartus Timing Constraints
 
-* Quartus maps logic elements into the FPGA fabric based on the timing constraint propagation times
 * Quartus constraint files have an **.sdc** extension
 * Every lab project has had a constraints file included
-* Timing reports provided by TimeQuest Timing Analyzer
+* TimeQuest Timing Analyzer provides timing reports
 * Refer to this [User Guide](http://www.alterawiki.com/uploads/3/3f/TimeQuest_User_Guide.pdf) for detailed information about setting constraints in Quartus
 
 ---
 
 ### Clock Constraints
 
-* 
-
-
-* In synchronous designs all signals reference a Clock signal
+* All registered signals reference a Clock
+* Signal constraints can be derived from the clock signal constraints
 * Providing the clock constraint is critical
-* The clock constraint covers most of the signals in the design
+
+
+---
+
+#### Clock Constraint Example
+
 * The DE1-SoC board's main clock input is 50 MHz
 
 ```
@@ -95,17 +98,11 @@ All signal names are case-sensitive
 
 ---
 
-### Quartus Constraints GUI
+#### Quartus Constraints GUI
 
-* Graphical interface to set and review timing constraints
+* Graphical interface to create constraints
 
 ![Create Clock GUI](https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture13/Slides/images/Timing_Create_Clock.png)
-
----
-
-
----
-
 
 ---
 
