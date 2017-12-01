@@ -80,6 +80,7 @@ FPGAs offer complete flexibility in the pipeline logic and multiple pipeline ins
 * Clock Constraints must be provided
 * All registered signals reference a Clock
 * Quartus can derive signal constraints automatically from the Clock constraint
+* Most signals in the system will be derived
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-Sum17/syllabus/master/Lectures/Lecture13/Slides/images/Clock_Constraint_Example.png&size=auto 90%
 
